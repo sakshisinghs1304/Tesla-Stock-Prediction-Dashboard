@@ -1,6 +1,5 @@
 # Tesla-Stock-Prediction-Dashboard
 "Interactive Tesla stock prediction dashboard powered by Deep Learning. Features forecasting, investment simulation, market analytics, model evaluation, and business insights."
-# Tesla Stock Price Prediction Dashboard
 
 A Deep Learning based Tesla stock forecasting dashboard built using:
 
