@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 import plotly.express as px
 import plotly.graph_objects as go
 
